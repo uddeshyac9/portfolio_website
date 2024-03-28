@@ -370,7 +370,8 @@ article .icon {
 .project-img {
   border-radius: 2rem;
   width: 90%;
-  height: 90%;
+  height: 70%;
+  object-fit: contain;
 }
 
 .project-title {
@@ -381,6 +382,9 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+} 
+.about-project {
+  margin-bottom: 10px;
 }
 
 /* CONTACT */
@@ -390,7 +394,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
-  margin-top: 450px;
+  margin-top: 50%;
 }
 
 .contact-info-upper-container {
