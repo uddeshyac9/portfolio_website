@@ -205,7 +205,9 @@ section {
   margin-top: 1rem;
   gap: 1rem;
 }
-
+.text-aboutMe {
+  font-size: 25px;
+}
 /* ICONS */
 
 .icon {
@@ -388,7 +390,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
-  margin-top:450px;
+  margin-top: 450px;
 }
 
 .contact-info-upper-container {
