@@ -438,3 +438,19 @@ footer {
 footer p {
   text-align: center;
 }
+
+.hero-section-heading {
+  font-size: 35px;
+  color: #343d68;
+  font-weight: 500;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.role{
+  color: #4e45d5; 
+   font-weight: 800;
+}
+.hero-section-sub-heading{
+font-size: 45px;
+line-height: 45px;
+}
